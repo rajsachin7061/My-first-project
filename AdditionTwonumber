@@ -1,0 +1,13 @@
+public class addition {
+   public addition() {
+   }
+
+   public static void main(String[] args) {
+      int a = 65;
+      int b = 5;
+      int sum = a + b;
+      int v = 35;
+      int u = 13;
+      System.out.print(sum + v + u);
+   }
+}
